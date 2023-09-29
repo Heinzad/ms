@@ -10,3 +10,5 @@ This approach is applied in :
 * Server Connection Parameter pServerConnectionString 
 * Database Connection Parameter pDatabaseConnectionString 
 
+Use of these connection parameters is demonstrated in: 
+* ParameterisedEntitySourceQuery 
