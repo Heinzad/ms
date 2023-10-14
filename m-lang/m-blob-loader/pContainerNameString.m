@@ -1,0 +1,1 @@
+"my-blob-container-name" meta [IsParameterQuery=true, List={"my-blob-container-name"}, DefaultValue="my-blob-container-name", Type="Text", IsParameterQueryRequired=true]
