@@ -1,0 +1,1 @@
+"my table name" meta [IsParameterQuery=true, Type="Text", IsParameterQueryRequired=true]
