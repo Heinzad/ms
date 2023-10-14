@@ -1,0 +1,1 @@
+"my key col name" meta [IsParameterQuery=true, Type="Text", IsParameterQueryRequired=true]
