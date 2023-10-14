@@ -1,0 +1,1 @@
+"my folder name" meta [IsParameterQuery=true, List={"my folder name"}, DefaultValue="my folder name", Type="Text", IsParameterQueryRequired=true]
